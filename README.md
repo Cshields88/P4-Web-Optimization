@@ -5,7 +5,7 @@ Optimized an inefficient web application's JavaScript, CSS and assets delivery, 
 
 [Live Site](http://cshields88.github.io/Udacity-FEND-Web-Optimization)
 
-![Web Optimization Screenshot](web-optimization.png)
+![Web Optimization Screenshot](web_optimization.png)
 
 Project 4:  Web Page Optimization
 
